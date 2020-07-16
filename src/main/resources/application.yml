@@ -1,0 +1,10 @@
+server:
+  port: 3333
+  address: localhost
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://120.78.222.124:3306/wealthManage?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&useSSl=true
+    username: wealthManage
+    password: wealthManage20180653
